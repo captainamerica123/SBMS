@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="01-SB-app"/>
+<aop-project name="03-Spring-IOC-CI-app"/>
+<aop-project name="02-SB-app"/>
+<aop-project name="04-Spring-IOC-app"/>
+</aop-reference-model>
